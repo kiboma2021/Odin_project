@@ -10,13 +10,13 @@ div{
 }
 
 h3{
-    color: red;
+    color: orange;
 }
 
 /* Class selectors */
 
 .heading-text{
-    color: rgb(9, 3, 92);
+    color: yellow;
 }
 
 /* ID selectors */
